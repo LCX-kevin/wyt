@@ -550,7 +550,7 @@
 	font-color: #000;
 	position: relative;
 	right: 5%;
-	top: 5%;
+	top: 15%;
 	opacity: 0;
 	animation:ly-stxt06_move 15s;
 	animation-delay:3s;
